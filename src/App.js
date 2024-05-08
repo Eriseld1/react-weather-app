@@ -6,7 +6,15 @@ export default function App() {
 		<div className="App">
 			<h1>Weather App</h1>
 			<footer>
-				This project was coded by Eriselda Portillo and is{" "}
+				This project was coded by{" "}
+				<a
+					href="https://github.com/Eriseld1"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
+					Eriselda Portillo
+				</a>{" "}
+				and is{" "}
 				<a
 					href="https://github.com/Eriseld1/react-weather-app"
 					target="_blank"
